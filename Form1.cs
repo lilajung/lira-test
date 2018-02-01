@@ -15,7 +15,7 @@ namespace lira_test
     public partial class Form1 : Form
     {
         /// <summary>
-        /// /
+        /// 주석추가해요
         /// </summary>
         public Form1()
         {
